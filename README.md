@@ -1,5 +1,4 @@
-# mortology
-Saturated Reverse Polish Notation
+# Saturated Reverse Polish Notation
 (SRPN) Calculator
 Whilst performing some maintenance on a legacy system you find that it
 makes use of a program called SRPN (srpn). SRPN is not documented
